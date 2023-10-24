@@ -1,6 +1,6 @@
 name: flutter_pdfjs_viewer
 description: Flutter PDF viewer powered by pdf.js for seamless document viewing.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/hagtic/flutter_pdfjs_viewer
 repository: https://github.com/hagtic/flutter_pdfjs_viewer
 
