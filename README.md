@@ -66,3 +66,7 @@ class _PdfViewerPageState extends State<PdfViewerPage> {
 }
 
 ```
+## Demo
+![WhatsApp Image 2023-10-25 at 09 38 16](https://github.com/hagtic/flutter_pdfjs_viewer/assets/26298059/7720aacf-d9f7-4235-a8ea-ef451093f03e)
+
+
